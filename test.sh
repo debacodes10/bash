@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Checking main branch for updates!"
+echo "Automating push with a bash script!"
